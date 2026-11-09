@@ -1,12 +1,183 @@
 [
   {
-    "name": "TIFFY",
+    "name": "Barney",
+    "url": "https://ncar.org.uk/animals/barney/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG_2431.jpeg",
+    "status": null,
+    "age": "16 weeks old",
+    "sex": "Male",
+    "breed": "Working Cocker Spaniel",
+    "notes": [],
+    "description": [
+      "Barney is a 16 week old Working Cocker Spaniel who originally came from a farm environment. He has recently been signed over to our care due to his owners realising that they couldn’t give them the fulfilling life that he needs. He is a very lively, active and switched on boy who needs an active home with people who will take him on lots of adventures! His ideal home would be with owners who have raised and owned Spaniels before or other gundog breeds.",
+      "He is currently in a foster home with a member of staff alongside three other dogs and two cats and is doing brilliantly and learning lots. Barney is fully house trained, crate trained and sleeps well through the night. He is great at travelling in the car and enjoys going on adventures. Barney is from working lines so is looking for a home with owners who understand what his breed needs to thrive and can give him a fulfilled life with plenty of physical exercise alongside mental stimulation to keep him satisfied and prevent any unwanted behaviours.",
+      "Barney can be rehomed with a compatible playful dog in his next home providing introductions go well here at the rescue and is young enough to get used to living with other animals too. Barney can be rehomed with sensible children depending on the experience level of the adults in the home. He would ultimately thrive in a quieter home where he could have lots of time dedicated to him. Barney will massively benefit from owners who are willing to get him involved in some scent work training classes or similar. He needs a home he won’t be left for long hours whilst he is so young and still developing.",
+      "We know he is very cute but he is a 10+ year commitment – please only apply to adopt him if you match the criteria and have put a lot of thought into your decision. We are expecting a lot of interest in Barney but we will be selecting the most suitable home for him. Please include plenty of detail on your application form as this helps us assess suitablity.",
+      "Barney has masses of potential and is a good boy so we really hope a loving home full of adventures comes along soon for him. 🙂"
+    ]
+  },
+  {
+    "name": "Angus",
+    "url": "https://ncar.org.uk/animals/angus-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG_0705.jpeg",
+    "status": null,
+    "age": "3",
+    "sex": "Male",
+    "breed": "Staffie X",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "can't live with dogs",
+      "can't live with young children"
+    ],
+    "description": [
+      "Angus is a handsome lad who originally came into our care as a stray and no one came forward to claim him, we did manage to find him a new home but he has sadly come back due to being too much for his owner. He is now looking for a new home and we hope he finds a suitable active home soon as he is a friendly lad who is sadly struggling with kennel life.",
+      "Angus is friendly and likes to meet people and is always very interested in his surroundings, he will make a great adventure buddy for someone as he is quite confident and loves being out and about walking.",
+      "He can be quite strong on the lead here and will require ongoing training to help with this but we also feel he will calm down quite a lot once he is out of kennels and is getting a lot of exercise. Angus likes running and sniffing in our secure paddocks, at the moment he doesn’t have any recall so he will require training in a few areas and will thrive in a home with owners who have the time to dedicate to him. He is looking for a home with sensible teenagers 14+. He is looking for a home with 6ft fences in the garden and he will need to be supervised when let out there as he did turn out to be a bit of an escape artist when he first went to his previous home. He is looking for a home where he won’t be left alone much as he thrives on human company.",
+      "In his previous home he would get quite barky when he saw other dogs, this isn’t a behaviour he displays here at the rescue much and we do think with the right owners this will improve. He is looking to be the only pet in the home but with continued socialisation out and about.",
+      "We hope a suitable home comes along soon for this handsome boy!"
+    ]
+  },
+  {
+    "name": "Fleur",
+    "url": "https://ncar.org.uk/animals/fleur/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/20261106_155034.jpg",
+    "status": null,
+    "age": "3 Years",
+    "sex": "Female",
+    "breed": "Patterdale",
+    "notes": [
+      "can live with sensible children",
+      "can live with other dogs",
+      "good on the lead",
+      "can’t live with cats"
+    ],
+    "description": [
+      "Pretty little Fleur arrived with us due to being found wandering down the main road and is now ready for her new home.",
+      "She is a beautiful girl, who has been friendly with everyone she has met. Typical Patterdale traits with her pray drive, so requires a good amount of time working on her recall before allowing her to run free.",
+      "Fleur loves to be out in the paddocks sniffing, running and getting her nose into anything she can, but is so much fun to be around.She loves her walks and could out walk most people on a daily basis with her little legs, so is looking for an active home to get her out on adventures so she doesn’t get bored.If she is taught to slow down and sniff things, she is so much calmer in herself.",
+      "Fleur could potentially be homed with children aged 10+, that can get involved with her training as she doesn’t seem to know much at all and she enjoys playing mind games and hide and seek.",
+      "Since arriving with us, Fleur has been introduced to a few different dogs and seems to enjoy their company, although can get scared of larger dogs when they approach her.We think Fleur could potentially be homed with an equal sized dog pending mixes go well on site, also who will be her new best friend to cuddle up to and go on adventures together.",
+      "If you are active and enjoy the outdoors, then Fleur could be your new best friend."
+    ]
+  },
+  {
+    "name": "Falcon",
+    "url": "https://ncar.org.uk/animals/falcon/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG_2515.jpeg",
+    "status": null,
+    "age": "3 Years",
+    "sex": "Male",
+    "breed": "Sharpei X",
+    "notes": [
+      "is toilet trained",
+      "can't live with dogs",
+      "can't live with children"
+    ],
+    "description": [
+      "Falcon is a nervous but playful boy who was found as a stray, unfortunately his previous owner did not come forward to claim him so he is now looking for his new forever home.",
+      "Falcon is an energetic and intelligent boy, his favourite thing to do is play fetch or have a good game of tug of war. He would play all day if he could!",
+      "He can be unsure around strangers and having unfamiliar people in his space, so any potential adopters would need to visit the rescue multiple times in order to build up a bond with him.",
+      "Falcon is getting more playful and showing us his cheeky side in the paddock, it can just take him a bit of time to warm up to you to begin with.",
+      "He has shown to be quite fearful around the vets and we are currently working on muzzle training him which he is doing well with, so new owners need to be prepared to put time into de-sensitizing him in this area gradually.",
+      "Falcon will need plenty of exercise in his new home, so is looking for an active owner to fulfill his exercise needs. He can be strong on lead but does settle down nicely when away from the rescue. We have noted that Falcon can panic when he sees other dogs and can react if allowed to, so is looking for a home in a quiet area and will need exercising in areas not frequented by lots of dogs whilst owners work on his reactivity. Our behaviourist is available to offer assistance in these areas.",
+      "Falcon has been fairly clean in his kennel since arriving with us and we expect only a small refresher should be needed for him to be fully housetrained in the home. He has also settled nicely and we have not seen any destructive behaviours from him when inside of his kennel. Falcon would love a large secure garden to play in without neighbouring dogs and a quiet adult only home without many visitors.",
+      "We know we are looking for quite a specific home for this quirky boy but we would really love to see him relax and learn to trust people and he needs an appropriate home to do so. With lots of training and confidence building we hope Falcon will thrive."
+    ]
+  },
+  {
+    "name": "Basil",
+    "url": "https://ncar.org.uk/animals/basil/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG_2216.jpeg",
+    "status": null,
+    "age": "9 months",
+    "sex": "Male",
+    "breed": "Malinois X German Shepherd",
+    "notes": [
+      "can live with other dogs",
+      "friendly with dogs",
+      "friendly with strangers",
+      "can't live with young children"
+    ],
+    "description": [
+      "Basil is a wonderful young dog who was signed over to the rescue earlier in the year with his two sisters. His sisters both quickly found new homes but sadly lovely Basil is still patiently waiting for his turn.",
+      "Basil is incredibly intelligent, loyal and loving, he picks up commands quickly and will thrive in a home with confident and experienced owners who are committed to his training and pushing him to fulfill his potential. Basil is a sensitive boy who loves to please people, he tries so very hard to be a good boy but sometimes his excitement can get the better of him and he certainly does have his share of crazy moments! We are currently working hard on keeping all four feet on the floor and improving his on lead skills. Because of Basil’s bouncy and boisterous nature (with the odd nip and teeth chatter thrown in for good measure) we would be looking for a home without young children for him, he could be rehomed with older teenagers 16+ who could help with his training and socialisation.",
+      "Basil is super friendly when meeting strangers and will sit by their feet nicely for fusses, he is also a very good boy at the vets. He walks well on lead once he has settled and passes vehicles, people and other dogs without issue with correct handling. Basil does enjoy being around other dogs and is still learning appropriate behaviours, we feel he would best suit a home with an older tolerant female dog.",
+      "It is important to note that baby Basil has only ever been inside a home a handful of times and new owners will need to start from scratch with him. He is not housetrained and will need a secure ‘Basil proof’ area whilst he gets accustomed to being indoors, our onsite behaviourist is available to work with potential owners as the adjustment period can be a challenging time. Basil will need a high fenced secure garden to explore and plenty of daily exercise.",
+      "Basil is not a dog for first time owners, he requires people with experience, patience and plenty of time to commit to him but he has such a huge amount of potential and a fantastic nature, it is a shame to see him still waiting for the right people to come along. We hope he doesn’t have to wait too much longer and can finally start living his life away from the confines of a kennel. Basil certainly is a very special boy."
+    ]
+  },
+  {
+    "name": "Bruno 2 – Appointment booked",
+    "url": "https://ncar.org.uk/animals/bruno-2/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/Adobe-Express-file.jpg",
+    "status": null,
+    "age": "2 years 6 months",
+    "sex": "Male",
+    "breed": "Terrier X whippet",
+    "notes": [
+      "can live with older children",
+      "friendly with strangers",
+      "good on the lead",
+      "is toilet trained",
+      "can’t live with cats",
+      "can't live with dogs"
+    ],
+    "description": [
+      "Bruno is a sweet boy who is needing to be rehomed due to not getting along with the other dogs in the household. He is now looking for his forever home where he can have all of the love and attention for himself.",
+      "Bruno is fully housetrained, knows basic commands and walks beautifully on lead. Bruno is finding kennel life a struggle and is very quiet and reserved at the minute. We think he would prefer a quieter home where he is not left alone for too long and with patient people who will allow him time to rebuild his confidence and settle in gradually. We are told however that once he is comfortable he is happy and playful even if he does jump up sometimes when excited.",
+      "Bruno has been known to be a bit of an escape artist and a secure garden with a minimum of 6ft fences is a must, such a cheeky boy! He does enjoy having a good sniff out and about and his walks are his favourite part of the day.",
+      "Bruno is a lovely boy, we hope he finds a new home soon and can get back to his home comforts."
+    ]
+  },
+  {
+    "name": "Fred – Appointment booked",
+    "url": "https://ncar.org.uk/animals/fred/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG_2609.jpeg",
+    "status": null,
+    "age": "3 years approximately",
+    "sex": "Male",
+    "breed": "Sharpei X Malinois",
+    "notes": [
+      "can live with older children",
+      "friendly with dogs",
+      "friendly with strangers",
+      "is toilet trained"
+    ],
+    "description": [
+      "Fred is a handsome boy who recently came into NCAR as a stray. We unfortunately have no history on this lovely boy however we believe he will make a great addition to a lucky family.",
+      "Fred can be timid when first meeting some people but is quickly won around and will happily head off with volunteers here at the rescue, he is growing more confident each and every day. We are enjoying seeing him come out of his shell and show off his playful and cheeky side. Fred enjoys his walks although he can be quite eager and strong on lead, he does need some training in this area and his handler should be capable of managing his strength. Fred is a fit and active dog looking for a home with people to take him on lots of adventures.",
+      "We are still assessing Fred around other dogs but so far he seems okay in their presence, mostly he has tended to have a quick sniff and then ignore them! For now we are looking for a home where Fred will be the only dog but this may be flexible depending on further assessments.Fred could be rehomed with older sensible children 14+ particularly those who are interested in helping out with his training.",
+      "Overall Fred is a great boy who just needs some tidying up around the edges. He will make a great adventure buddy and has a lot of potential in the right home.Please note that Fred’s age is just an approximation due to no information on his microchip. It is recommended that potential adopters do research into the breed mixture that we believe he may be and understand the characteristics and traits of both breeds.We hope Fred is not waiting too long before he finds his forever home."
+    ]
+  },
+  {
+    "name": "Arthur & Molly",
+    "url": "https://ncar.org.uk/animals/arthur-molly/",
+    "image": "https://ncar.org.uk/wp-content/uploads/2026/11/IMG-20261102-WA0009.jpg",
+    "status": null,
+    "age": "1-2 years approx",
+    "sex": "Mixed",
+    "breed": "Collie Cross",
+    "notes": [],
+    "description": [
+      "Arthur and Molly are two terrified strays that were found together, and unfortunately we have had no history on them. They are now looking for a forever home where they can settle as they are both so scared of kennels at the moment. While they are very attached to each other, we can look at keeping them together, or separating them for the right home. It will be beneficial for them to live with another dog.They are looking for homes with owners who are dog-savvy and experienced with nervous dogs.",
+      "Both dogs arrived very scared, they would both hide in the back of their kennel and not want to come out. It has taken kennel staff a long time for them to settle and get them out for very short walks in calm areas. Arthur is more confident then Molly, but both are still very shut down and will need a very dedicated, calm and patient home that can let them settle and come out of their shell in their own time.",
+      "They will accept handling / being stroked but they are very scared of sudden movements and only tolerate being handled. Anyone interested in them will have to be patient and have a hands-off approach until they are more settled and happy with being handled. They are both in good condition, but they did not have a microchip or any information. We guessing they are related, with Molly just being slightly smaller then Arthur – we are estimating they are around 2Years old.",
+      "We have done limited testing with both Arthur and Molly due to how scared they are, but Arthur has met dogs out on walks and is very interested to say hi, we can look at doing mixes with any potential compatitable dogs but anyone interested will have to be dedicated to come up on a couple visits to make sure everyone gets on well. They are currently in the same kennel and will sleep in the same bed together – we do seperate them to feed them as Arthur will eat all of Molly’s food.",
+      "They are looking for a home with older children, that can give them space when the dogs need it and not overcrowd them. They are a big flight risk at the moment, so gardens and the home will need to be very secure and any walks will need to be on lead until they are more confident and they have reliable recall. At the moment on walks, they both try and hide under furniture, hedges and against walls. They will need a lot of training and time dedicated to building their confidence outside – as well as needing house training, lead training.",
+      "Molly and Arthur have clearly had sucy a bad start to life and we hope they both find a home soon so they can have some home comforts and enjoy life. They are both incredible dogs and have so much potential for the right home.",
+      "Please include plenty of information on your application so we can try and find them the best home for them."
+    ]
+  },
+  {
+    "name": "Tiffy – Appointment booked",
     "url": "https://ncar.org.uk/animals/tiffy/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/11/Screenshot_20261102_135052_Gallery.jpg",
     "status": null,
     "age": "3years, 9 months.",
     "sex": "Female",
-    "breed": "Chaweeny Cross.",
+    "breed": "Chihuahua x Daschund",
     "notes": [
       "can live with sensible children",
       "friendly with strangers",
@@ -51,7 +222,7 @@
     "name": "George",
     "url": "https://ncar.org.uk/animals/george/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/10/IMG-20261020-WA0016-scaled.jpg",
-    "status": null,
+    "status": "Reserved",
     "age": "3Years Approx",
     "sex": "Male",
     "breed": "Shar-pei Cross",
@@ -139,27 +310,6 @@
     ]
   },
   {
-    "name": "Reggie",
-    "url": "https://ncar.org.uk/animals/reggie/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/10/IMG-20261015-WA0014-1.jpg",
-    "status": "Reserved",
-    "age": "4 years, 6 months",
-    "sex": "Male",
-    "breed": "Cockerpoo",
-    "notes": [
-      "friendly with strangers",
-      "good on the lead",
-      "is toilet trained"
-    ],
-    "description": [
-      "Reggie sadly arrived in our care due to unfortunately not getting along with the male dog in the home.He is a lovely sweet boy and gets very attached to his favourite people and forms a strong bond in a short space of time.",
-      "Since arriving with us, we have introduced Reggie to lots of different people, we’ve noted he can be slightly timid around men and seems to prefer the company of women, but will settle in his own time and build new friendships.",
-      "Reggie is looking for an active home, where he will get out on long exciting walks and then home for plenty of cuddles on the sofa.He would love a quiet home with people who can give him lots of attention, along with playtime in the garden.We feel he would be best suited to a home with calm children aged 12+, so he can have space if he feels he needs it due to him being a quieter boy.",
-      "Due to the circumstances in which Reggie came into our care, he is looking to be the only dog in the home, but to continue to be socialised out on walks as there have never been any issues with other dogs and it was only with the other male dog inside the home and not with the females.",
-      "Reggie has come from a loving home and is hoping his new best friend is just around the corner."
-    ]
-  },
-  {
     "name": "Sirius",
     "url": "https://ncar.org.uk/animals/sirius/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/10/d1819667-2234-497e-913a-23ba81819501.jpeg",
@@ -168,7 +318,6 @@
     "sex": "Male",
     "breed": "Lurcher X",
     "notes": [
-      "can live with older children",
       "friendly with dogs",
       "friendly with strangers",
       "good on the lead"
@@ -176,7 +325,7 @@
     "description": [
       "Sirius is a handsome, friendly boy that arrived to the rescue as a stray. Sadly, no one has claimed him so he is now looking for a new family to have lots of adventures with!",
       "Sirius can be a little nervous initally meeting people, but then is your best friend and loves fuss and cuddles! He is a playful pup that likes a play off lead, and loves to do zoomies! He can be quite jumpy and excited, so will need owners that will put in the time with training for him. He is a young lad that finds everything excited but will need general training and socialisation. Sirius can be barky with dogs, but this is frustration as he is very playful and silly once he meets them. He would benefit from calm interactions around dogs to build up his confidence. At the moment he is looking for a home as the only dog.",
-      "Sirius can be nervous with new things, including the vets, but generally settles pretty well. He can pull on lead so will again need some lead training. He can be rehomed with older children.",
+      "Sirius can be nervous with new things, including the vets, but generally settles pretty well. He can pull on lead so will again need some lead training. Following further assessment we feel that Sirius would be best suited to an adult only home.",
       "Sirius can be quite protective of his food and will growl if you hover too close to him – so he will need space while he is eating and settling in the home. We can advise anyone interested in him with more information on how to manage and avoid this behaviour.",
       "Generally he is an amazing boy who clearly hasn’t had much structure and will need a stable home with consistence training and lots of fun adventures. He’ll be an amazing boy once he has settled with so much potential!"
     ]
@@ -527,7 +676,7 @@
     ]
   },
   {
-    "name": "Maverick",
+    "name": "Maverick – Working with potential adopter",
     "url": "https://ncar.org.uk/animals/maverick/",
     "image": "https://ncar.org.uk/wp-content/uploads/2026/07/20390818-d9e7-40ec-a708-1c0248179c2f.jpeg",
     "status": null,
@@ -730,28 +879,6 @@
       "He was initially very timid, but has started coming out of his shell with staff and volunteers and we are seeing his cheeky side. He can be jumpy and quite strong on lead, so will need owners that are quite strong. We have started gen-con training him so this helps with his strenght. He will need owners that can manage his weight (he is currently on raw food) and exercise levels, and owners that can help with his socialisation as he does need some confidence building out and about.",
       "He can reactive to dogs here, he will pass most dogs fine but can get intimiated and barky with dogs that are too boisterous or barky towards him. He will need to be the only dog in the home. Rocky is only young and his first year may have been scary for him since he came to us underweight as a stray, so will need owners that understand this and put in the extra TLC in his new home.",
       "We hope he isn’t in kennels much longer as he is a very sweet boy."
-    ]
-  },
-  {
-    "name": "Angus",
-    "url": "https://ncar.org.uk/animals/angus/",
-    "image": "https://ncar.org.uk/wp-content/uploads/2026/03/IMG_1274-e1773757701757.jpeg",
-    "status": null,
-    "age": "2 years old",
-    "sex": "Male",
-    "breed": "Staffie cross",
-    "notes": [
-      "can live with older children",
-      "friendly with strangers",
-      "can't live with dogs",
-      "can't live with young children"
-    ],
-    "description": [
-      "Angus is a handsome lad who originally came into our care as a stray and no one came forward to claim him, we did manage to find him a new home but he has sadly come back due to being too much for his owner. He is now looking for a new home and we hope he finds a suitable active home soon as he is a friendly lad who is sadly struggling with kennel life.",
-      "Angus is friendly and likes to meet people and is always very interested in his surroundings, he will make a great adventure buddy for someone as he is quite confident and loves being out and about walking.",
-      "He can be quite strong on the lead here and will require ongoing training to help with this but we also feel he will calm down quite a lot once he is out of kennels and is getting a lot of exercise. Angus likes running and sniffing in our secure paddocks, at the moment he doesn’t have any recall so he will require training in a few areas and will thrive in a home with owners who have the time to dedicate to him. He is looking for a home with sensible teenagers 14+. He is looking for a home with 6ft fences in the garden and he will need to be supervised when let out there as he did turn out to be a bit of an escape artist when he first went to his previous home. He is looking for a home where he won’t be left alone much as he thrives on human company.",
-      "In his previous home he would get quite barky when he saw other dogs, this isn’t a behaviour he displays here at the rescue much and we do think with the right owners this will improve. He is looking to be the only pet in the home but with continued socialisation out and about.",
-      "We hope a suitable home comes along soon for this handsome boy!"
     ]
   },
   {
